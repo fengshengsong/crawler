@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Keep Fun</title>
+    <link href="/static/images/favicon.ico" type="image/x-icon" rel="icon">
+    <link href="/static/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
+    <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+  <link href="/main.dev.css" rel="stylesheet"></head>
+  <body>
+    <app></app>
+  <script type="text/javascript" src="/main.dev.js"></script></body>
+  <script>
+  </script>
+</html>
